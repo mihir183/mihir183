@@ -11,22 +11,33 @@ I'm currently upskilling through the Full Stack (MERN) course at Red & White Mul
 
 🔧 Tech Stack
 Frontend: HTML, CSS, Bootstrap, JavaScript, React, Figma
+
 Backend: Node.js, Express.js, Django, Laravel, PHP
+
 Database: MongoDB, MySQL
+
 Others: Python, AI/ML, OpenCV, Git & GitHub
 
 📌 Projects
+
 Hospital Management System (MERN Stack): Role-based authentication, OTP verification, admin dashboard, and seamless appointment booking.
+
 E-Commerce Website (Django): Login system with validation, secure cart, and smooth purchasing flow.
+
 Indian Currency Classification (OpenCV + ML): Classifies Indian currency notes using image processing and ML techniques.
+
 Event Ticket Management UI (Figma): Designed a user-friendly interface with login, registration, image slider, and responsive event management components.
 
 🎯 Currently Working On
+
 Cybersecurity certifications and competitive coding (CodeChef, LeetCode, etc.)
+
 Exploring advanced AI/ML applications
 
 📫 Let's Connect
+
 📧 Email: mihirvaghela1811@gmail.com
+
 🌐 GitHub: github.com/mihir183
 
 🔗 LinkedIn: Mihir Vaghela
