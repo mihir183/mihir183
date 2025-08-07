@@ -36,9 +36,8 @@ Exploring advanced AI/ML applications
 
 📫 Let's Connect
 
-📧 Email: mihirvaghela1811@gmail.com
-
-🌐 GitHub: github.com/mihir183
-
-🔗 LinkedIn: Mihir Vaghela
+📧 Email: [mihirvaghela1811@gmail.com](mailto:mihirvaghela1811@gmail.com)  
+🌐 GitHub: [github.com/mihir183](https://github.com/mihir183)  
+🔗 LinkedIn: [Mihir Vaghela](https://www.linkedin.com/in/mihir-vaghela-6a24a8242/)  
+📄 Resume: [View My Resume](https://drive.google.com/drive/u/0/home)
 
