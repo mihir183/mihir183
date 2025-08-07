@@ -3,6 +3,7 @@
 Front-end Developer | Full Stack Developer | UI/UX Designer | Final Year MCA Student
 
 💼 About Me
+
 A passionate and detail-oriented Software Developer currently pursuing my MCA (Semester 9). I have completed my Bachelor's in Computer Applications (BCA) and specialize in full-stack development using the MERN stack. I also have hands-on experience with Python-Django, PHP-Laravel, and modern frontend technologies like React.
 
 I enjoy building real-world applications that solve practical problems—from hospital management systems to e-commerce platforms. My interests also include AI/ML, OpenCV, and image processing techniques.
