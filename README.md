@@ -1,44 +1,83 @@
-## Hi there I'm Mihir👋
+# 👋 Hi, I'm Mihir Vaghela
 
-Front-end Developer | Full Stack Developer | UI/UX Designer | Final Year MCA Student
+### 💻 Full Stack Developer (MERN) | Front-End Developer | UI/UX Enthusiast  
+📚 MCA Final Year Student | Passionate About Problem-Solving & Real-World Products  
 
-💼 About Me
+---
 
-A passionate and detail-oriented Software Developer currently pursuing my MCA (Semester 9). I have completed my Bachelor's in Computer Applications (BCA) and specialize in full-stack development using the MERN stack. I also have hands-on experience with Python-Django, PHP-Laravel, and modern frontend technologies like React.
+## 🚀 About Me
 
-I enjoy building real-world applications that solve practical problems—from hospital management systems to e-commerce platforms. My interests also include AI/ML, OpenCV, and image processing techniques.
+I am a passionate and detail-oriented software developer currently pursuing my MCA (Sem 9).  
+I enjoy building scalable full-stack applications that solve real-life problems.
 
-I'm currently upskilling through the Full Stack (MERN) course at Red & White Multimedia Education, where I'm enhancing my backend and frontend development skills through hands-on projects.
+With a strong foundation in the MERN stack and experience in Python-Django, Laravel, and modern front-end technologies, I focus on writing clean, efficient code and designing intuitive user experiences.
 
-🔧 Tech Stack
-Frontend: HTML, CSS, Bootstrap, JavaScript, React, Figma
+---
 
-Backend: Node.js, Express.js, Django, Laravel, PHP
+## 🛠 Tech Stack
 
-Database: MongoDB, MySQL
+**Frontend:**  
+HTML, CSS, Bootstrap, JavaScript, React, Figma, **Media Queries (Responsive Design)**
 
-Others: Python, AI/ML, OpenCV, Git & GitHub
+**Backend:**  
+Node.js, Express.js, Django, Laravel, PHP  
 
-📌 Projects
+**Database:**  
+MongoDB, MySQL  
 
-Hospital Management System (MERN Stack): Role-based authentication, OTP verification, admin dashboard, and seamless appointment booking.
+**Other Skills:**  
+Python, OpenCV, AI/ML models, Git, GitHub  
 
-E-Commerce Website (Django): Login system with validation, secure cart, and smooth purchasing flow.
+---
 
-Indian Currency Classification (OpenCV + ML): Classifies Indian currency notes using image processing and ML techniques.
+## 📌 Featured Projects
 
-Event Ticket Management UI (Figma): Designed a user-friendly interface with login, registration, image slider, and responsive event management components.
+### 🗂 CRM Ticket Handling System – PHP + MySQL
+✔ Client registration & product management  
+✔ Ticket system to submit service complaints  
+✔ Email sending system  
+✔ Admin dashboard to manage clients, tickets & products  
+✔ Close ticket support for resolved complaints  
+🔗 GitHub Repository: **https://github.com/mihir183/CRM**
 
-🎯 Currently Working On
+### 🏥 Hospital Management System – MERN
+✔ Role-based authentication  
+✔ OTP verification  
+✔ Appointment booking  
+✔ Admin dashboard  
 
-Cybersecurity certifications and competitive coding (CodeChef, LeetCode, etc.)
+### 🛒 E-Commerce Website – Django
+✔ User authentication with validation  
+✔ Cart system  
+✔ Order placement flow  
 
-Exploring advanced AI/ML applications
+### 💸 Indian Currency Detection – OpenCV + ML  
+✔ Image processing pipeline  
+✔ ML-based note classification  
 
-📫 Let's Connect
+### 🎟 Event Ticket Management – Figma UI
+✔ Login/Registration flow  
+✔ Hero slider  
+✔ Responsive UI structure  
 
-📧 Email: [mihirvaghela1811@gmail.com](mailto:mihirvaghela1811@gmail.com)  
-🌐 GitHub: [github.com/mihir183](https://github.com/mihir183)  
-🔗 LinkedIn: [Mihir Vaghela](https://www.linkedin.com/in/mihir-vaghela-6a24a8242/)  
-📄 Resume: [View My Resume](https://drive.google.com/file/d/1S6oMKhBOa3EGCoR7hwZ7VJAaZgk5wTCH/view?usp=sharing)
+---
 
+## 🔥 Currently Working On
+- Competitive coding (LeetCode, CodeChef)
+- Cybersecurity certifications
+- Advanced AI/ML concepts
+
+---
+
+## 📫 Connect With Me
+
+📧 Email › **mihirvaghela1811@gmail.com**
+
+🔗 LinkedIn › [Mihir Vaghela](https://www.linkedin.com/in/mihir-vaghela-6a24a8242/)  
+🌐 GitHub › [github.com/mihir183](https://github.com/mihir183)  
+📄 Resume › [View Resume](https://drive.google.com/file/d/1S6oMKhBOa3EGCoR7hwZ7VJAaZgk5wTCH/view?usp=sharing)
+
+---
+
+## ⭐ Fun Fact
+I love turning **ideas into working apps**, and I never leave a project unfinished!
