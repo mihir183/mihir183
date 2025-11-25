@@ -76,7 +76,7 @@ Python, OpenCV, AI/ML models, Git, GitHub
 
 🔗 LinkedIn › [Mihir Vaghela](https://www.linkedin.com/in/mihir-vaghela-6a24a8242/)  
 🌐 GitHub › [github.com/mihir183](https://github.com/mihir183)  
-📄 Resume › [View Resume](https://drive.google.com/file/d/1S6oMKhBOa3EGCoR7hwZ7VJAaZgk5wTCH/view?usp=sharing)
+📄 Resume › [View Resume](https://drive.google.com/file/d/1tfa-6TrGuzP4xO1CJUW-6MEGf2OqnU-j/view?usp=sharing)
 
 ---
 
