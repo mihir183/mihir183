@@ -59,7 +59,7 @@ Python, OpenCV, AI/ML models, Git, GitHub
 ✔ Login/Registration flow  
 ✔ Hero slider  
 ✔ Responsive UI structure  
-🔗 Figma Prototype: **https://www.figma.com/proto/DZMUwtRhI5XsYuWULBa0HW/DashBoard?node-id=124-238&starting-point-node-id=124%3A238**
+🔗 Figma Prototype: [View Preview](https://www.figma.com/proto/DZMUwtRhI5XsYuWULBa0HW/DashBoard?node-id=124-238&starting-point-node-id=124%3A238)
 
 ---
 
