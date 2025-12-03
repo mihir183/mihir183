@@ -72,7 +72,8 @@ Python, OpenCV, AI/ML models, Git, GitHub
 
 ## 📫 Connect With Me
 
-📧 Email › [Email](mihirvaghela1811@gmail.com)
+📧 Email › **mihirvaghela1811@gmail.com**
+
 🔗 LinkedIn › [Mihir Vaghela](https://www.linkedin.com/in/mihir-vaghela-6a24a8242/)  
 🌐 GitHub › [github.com/mihir183](https://github.com/mihir183)  
 📄 Resume › <a href="https://drive.google.com/file/d/1RaGEK7stubBsHSYacvvzfpA4J1ec0Od3/view?usp=sharing" target="_blank">
