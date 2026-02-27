@@ -69,7 +69,7 @@ With a strong foundation in the **MERN stack**, **Next.js**, and experience in *
 
 🌐 GitHub: https://github.com/mihir183
 
-📄 Resume: https://drive.google.com/file/d/1RaGEK7stubBsHSYacvvzfpA4J1ec0Od3/view
+📄 Resume: https://drive.google.com/file/d/1Wiui9d1GIsMpUu9YdvMoMHV0w7ZAVvGG/view?usp=sharing
 
 ---
 
