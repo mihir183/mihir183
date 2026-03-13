@@ -71,6 +71,8 @@ With a strong foundation in the **MERN stack**, **Next.js**, and experience in *
 
 📄 Resume: https://drive.google.com/file/d/1Wiui9d1GIsMpUu9YdvMoMHV0w7ZAVvGG/view?usp=sharing
 
+💻 Portfolio: https://mihir183.netlify.app/
+
 ---
 
 ## ⭐ Fun Fact
